@@ -10,7 +10,7 @@ The purpose of this analysis is to show how other kickstarter campaigns faired i
 ### Analysis of Outcomes Based on Launch Date
 Using data fromt the Kickstarter Sheet as reference I created a pivot table filtered by Years and Parent Category. I set the columns for "Outcomes" and the value for "Count of Outcomes". The rows were set for "Date Created". Once this was created I filtered the "Parent Category" to "theater". This created a pivot table that filtered total successful theater kickstarters by month. Once the data was gathere in the pivotable - I used it to create line graph for Theater Outcomes Based on Launch Date.
 
-![Pivot_Table_Based_On_Launch_Date.png](/resources/Pivot_Table_Based_On_Launch_Date.png]
+![Pivot_Table_Based_On_Launch_Date.png](/resources/Pivot_Table_Based_On_Launch_Date.png)
 
 ![Theater_Outcomes_vs_Launch.png](/resources/Theater_Outcomes_vs_Launch.png)
 
