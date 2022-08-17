@@ -10,13 +10,11 @@ The purpose of this analysis is to show how other kickstarter campaigns faired i
 ### Analysis of Outcomes Based on Launch Date
 Using data fromt the Kickstarter Sheet as reference I created a pivot table filtered by Years and Parent Category. I set the columns for "Outcomes" and the value for "Count of Outcomes". The rows were set for "Date Created". Once this was created I filtered the "Parent Category" to "theater". This created a pivot table that filtered total successful theater kickstarters by month. Once the data was gathere in the pivotable - I used it to create line graph for Theater Outcomes Based on Launch Date.
 
-![Pivot_Table_Based_On_Launch_Date](/resources/Pivot_Table_Based_On_Launch_Date]
+![Pivot_Table_Based_On_Launch_Date.png](/resources/Pivot_Table_Based_On_Launch_Date.png]
 
 ![Theater_Outcomes_vs_Launch.png](/resources/Theater_Outcomes_vs_Launch.png)
 
-
-Based on launch date we can conclude that the most succeessful "Theater" Kickstarters were launched in May, June, and July. May by far had the greatest number of successful theater kickstarters. May totaled 111 successful kickstarters, June 110, July 87. In contrast the lowest number of successful kickstarters were launched in December. 
-October should aslo be noted as the month with the highest numbered of failed theater kickstaters. October had 50 failed kickstarters and only 65 successful.
+Based on launch date we can conclude that the most succeessful "Theater" Kickstarters were launched in May, June, and July. May by far had the greatest number of successful theater kickstarters. May totaled 111 successful kickstarters, June 110, July 87. In contrast the lowest number of successful kickstarters were launched in December. October should aslo be noted as the month with the highest numbered of failed theater kickstaters. October had 50 failed kickstarters and only 65 successful.
 
 ### Analysis of Outcomes Based on Goals
 Using data in from the Kickstarter Sheet as reference I created a table containing "Goal", "Number Successful", "Number Failed", and "Number Canceled". Using code I was able to filter the subcategory "plays" by either "successful", "failed", or canceled"
